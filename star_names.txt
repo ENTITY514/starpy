@@ -1,0 +1,160 @@
+And | Andromeda Andromedae AHApoMesza 27 8
+Ant |Antlia Antliae Bosyzyunn Hacoc |16
+
+Aps |Apus Apodis Paticxaa IITuua 20
+
+Aql |Aquila Aquilae Opes 12 13
+
+Aqr |Aquarius Aquarii Bonosmeii 13 19 8 14
+Ara |Ara Arae KepTBeHHHK 18
+
+Ari |Aries Arietis OBeH 8 2
+
+Aur |Auriga Aurigae BosHuun 3
+
+Boo |Bootes Bootis Bovionac 5 11
+
+Cae |Caelum Caeli Peseu 15
+
+Cam |Camelopardalis |Camelopardalis Kupadh 13 2 4
+Cap |Capricornus Capricorni Kosepor 13 19 12 18
+Car |Carina Carinae Kuan (Kopa6aa )|16 15 20
+Cas |Cassiopeia Cassilopeiae Kaccuonea 21 7
+Cen |Centaurus Centauri lleHTaBp 17 16
+
+Cep |Cepheus Cephei ede 1 7
+
+Cet |Cetus Ceti Kut 8 14 13
+Cha |Chamaeleon Chamaeleontis Xamevsieou 20
+
+Cir |Circinus Circini lupky1b 17 20
+
+CMa |Canis Major Canis Majoris Bouabwok Tec 9 15
+
+CMi {Canis Minor Canis Minoris Mamni Mec 9 10
+
+Cne |Cancer Cancri Pak 10 9 4 3
+Col {Columba Columbae Tomy6b 15
+
+Com |Coma Berenices Comae Berenices Bonmocnh Bepenuku|] 5 11 4 10
+CrA {Corona Australis/Coronae Australis | DxHaa Kopona 18
+
+CrB |Corona Borealis |Coronae Borealis |CeBepHas KopoHa|] 5 6
+
+Crt |Crater Crateris Yama 10 16
+
+Cru |Crux Crucis Kpect 17 16
+
+Crv |Corvus Corvi Bopo# 11 10 17 16
+CVn |Canes Venatici Canum Venaticorum | ouune IIc 5 4
+
+Cyg |Cygnus Cygni Jle6eab 7 6
+
+Del |Delphinus Delphini Tenappux 13
+
+Dor | Dorado Doradus SomoTaa PHO6a 15 14
+
+Dra |Draco Draconis JpakoH 1 5 6 7
+Equ |Equuleus Equulei Mann Konb 13
+
+Eri | Eridanus Eridani Opuyzan 8 9 14
+For |Fornax Fornacis Tleub 14
+
+Gem |Gemini Geminorum Ban3Heuu 3.9 14
+Gru |Grus Gruis kypaBsb 19
+
+Her |Hercules Herculis Tepxyatec 612 5 11
+Hor |Horologium Horologii Yacu 14 15
+
+Hya |Hydra Hydrae [ugpa 10 16 17 9
+Hyi |Hydrus Hydri fOxHan [ugpa 14
+
+Ind | Indus Indi MHzeeu 19 20
+Lac |Lacerta Lacertae Awepuua 7
+
+Leo |Leo Leonis Jies 10 4 11
+
+Lep |Lepus Leporis Sanu 9 15
+
+Lib |Libra Librae Becu 11 17 12
+
+LMi |Leo Minor Leonis Minoris Maan Jlep 4
+
+Lup |Lupus Lupi Bowk 17 18
+
+Lyn | Lynx Lyncis PHCcb 3 4
+
+Lyr |Lyra Lyrae JIupa 6
+
+Men |Mensa Mensae CTtonmosaa Topa 20
+
+Mic |Microscopium Microscopii Muxpockon 19
+
+Mon |Monoceros Monocerotis EquyHopor 9 10
+
+Mus |Musca Muscae Myxa 16 17 20
+
+Nor |Norma Normae HayroabHUuk 17 18
+
+Oct |Octans Octantis OkTAaHT 20
+
+Oph |Ophiuchus Ophiuchi SMeeHocell 12 11 18
+
+Ori |Orion Orionis OpuoH 9
+
+Pav |Pavo Pavonis TaBaun 18 19 20
+
+Peg |Pegasus Pegasi Tlerac 13 7 8 3
+
+Per |Perseus Persei Nepcek 2 38
+
+Phe |Phoenix Phoenicis exuke 14
+
+Pic |Pictor Pictoris KuBonuceu 15
+
+PsA |Piscis Austrinus| Piscis Austrini | OxHag Poa 15
+
+Psc |Pisces Piscium PHO 813 2
+
+Pup |Puppis Puppis' KopMa ( Kopabaa) 15 16 9 10
+
+Pyx |Pyxis Pyxidis Kommac (Kopaéaa) |16 10
+
+Ret |Reticulum Reticuli Cetka 14 15
+
+Scl {Sculptor Sculptoris CkyabuTop 14 19
+
+Sco |Scorpius Scorpii Ckopmnuon 18 12 11 17
+
+Sct |Scutum Scuti lat 12
+
+Ser |Serpens Serpentis 3Mea 1112 5
+
+Sex |Sextans Sextantis CekcTaHT 10
+
+Sge |Sagitta Sagittae CTpesa 12 13
+
+Sgr |Sagittarius Sagittarii CTpemeu 18 19 12
+
+Tau |Taurus Tauri Tenney 9 8 38.2
+
+Tel |Telescopium Telescopii Teaeckon 18 19
+
+TrA |Triangulum Aus- | Trianguli Aus— | OxHHi TpeyrospHux [17 18 20
+trale tralis
+
+Tri |Triangulum Trianguli TpeyroubHuk 2
+
+Tuc |Tucana Tucanae TyKaH 19 14 20
+
+UMa |Ursa Major Ursae Majoris Bombuad MemBexzuua | 4 5 1 3
+
+UMi |Ursa Minor Ursae Minoris Manan MenBegzuua 1 5
+
+Vel |Vela Velorum Tapyca (Kopa6sa d\16 15
+
+Vir |Virgo Virginis 7leBa 11 10
+
+Vol |Volans Volantis JleTyuan PHoOa 15 16
+
+Vul |Vulpecula Vulpeculae Jucuuka 6 712 13
